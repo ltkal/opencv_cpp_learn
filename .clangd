@@ -1,0 +1,5 @@
+# .clangd
+CompileFlags:
+  Add:
+    - "-isystem"
+    - "/usr/include/opencv4"

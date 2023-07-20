@@ -1,0 +1,9 @@
+/home/scorpion/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/scorpion/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/linux/ninja -G Ninja -S /home/scorpion/workspace/cpp_cv_learn/chapter_4 -B /home/scorpion/workspace/cpp_cv_learn/chapter_4/cmake-build-debug
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found CUDA: /opt/cuda (found suitable exact version "12.2") 
+-- Found OpenCV: /usr (found version "4.8.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/scorpion/workspace/cpp_cv_learn/chapter_4/cmake-build-debug

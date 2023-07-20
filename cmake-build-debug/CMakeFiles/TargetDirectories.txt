@@ -1,0 +1,4 @@
+/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug/CMakeFiles/learnopencv.dir
+/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug/CMakeFiles/qaq.dir
+/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

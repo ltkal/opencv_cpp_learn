@@ -1,0 +1,5 @@
+/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug/CMakeFiles/chapter_1.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug/CMakeFiles/qaq.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug/CMakeFiles/web_cam.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

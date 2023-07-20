@@ -1,0 +1,3 @@
+/home/scorpion/workspace/cpp_cv_learn/chapter_2/cmake-build-debug/CMakeFiles/chapter_2.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scorpion/workspace/cpp_cv_learn/chapter_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

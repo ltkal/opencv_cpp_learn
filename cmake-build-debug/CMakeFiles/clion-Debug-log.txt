@@ -1,0 +1,13 @@
+/home/scorpion/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/scorpion/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/linux/ninja -G Ninja -S /home/scorpion/workspace/cpp_cv_learn -B /home/scorpion/workspace/cpp_cv_learn/cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:11 (add_executable):
+  Cannot find source file:
+
+    quickopecv.h
+
+
+CMake Error at CMakeLists.txt:11 (add_executable):
+  No SOURCES given to target: learnopencv
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

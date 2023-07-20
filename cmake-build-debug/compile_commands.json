@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug",
+  "command": "/usr/bin/c++ -isystem /usr/include/opencv4 -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles/learnopencv.dir/1.cpp.o -c /home/scorpion/workspace/cpp_cv_learn/1.cpp",
+  "file": "/home/scorpion/workspace/cpp_cv_learn/1.cpp"
+},
+{
+  "directory": "/home/scorpion/workspace/cpp_cv_learn/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/usr/include/opencv4 -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles/qaq.dir/2.cpp.o -c /home/scorpion/workspace/cpp_cv_learn/2.cpp",
+  "file": "/home/scorpion/workspace/cpp_cv_learn/2.cpp"
+}
+]

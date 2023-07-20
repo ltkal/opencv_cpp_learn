@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chapter_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chapter_1-Debug-8ca6f67370db3aa73412.json",
+					"name" : "chapter_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qaq::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qaq-Debug-5d67a1c7fb61b96e0f6e.json",
+					"name" : "qaq",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "web_cam::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-web_cam-Debug-ae6a9482ec3a95d3d5e0.json",
+					"name" : "web_cam",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/scorpion/workspace/cpp_cv_learn/chapter_1/cmake-build-debug",
+		"source" : "/home/scorpion/workspace/cpp_cv_learn/chapter_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
